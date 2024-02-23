@@ -1788,6 +1788,7 @@ input, select, textarea {
 /* Copyright */
 
 	#copyright {
+		background: #f7f7f7 url("./images/White\ logo.jpeg");
 		border-top: solid 1px #b5bec3;
 		box-shadow: inset 0px 1px 0px 0px #e0e4e7;
 		text-align: center;
