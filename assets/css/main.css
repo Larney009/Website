@@ -1701,7 +1701,7 @@ input, select, textarea {
 
 /* Content */
 
-	#content {
+	#content .box {
 		background: #f7f7f7 url("./images/White\ logo.jpeg");
 		border-top: solid 1px #fff;
 		padding: 45px 0 45px 0;
@@ -1709,10 +1709,35 @@ input, select, textarea {
 		color: #a0a8ab;
 		background-size: 9%;
 		background-blend-mode: hard-light;
-	
-
+		-webkit-animation: scale-in-ver-center 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+	        animation: scale-in-ver-center 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 	}
 	
+	@-webkit-keyframes scale-in-ver-center {
+		0% {
+		  -webkit-transform: scaleY(0);
+				  transform: scaleY(0);
+		  opacity: 1;
+		}
+		100% {
+		  -webkit-transform: scaleY(1);
+				  transform: scaleY(1);
+		  opacity: 1;
+		}
+	  }
+	  @keyframes scale-in-ver-center {
+		0% {
+		  -webkit-transform: scaleY(0);
+				  transform: scaleY(0);
+		  opacity: 1;
+		}
+		100% {
+		  -webkit-transform: scaleY(1);
+				  transform: scaleY(1);
+		  opacity: 1;
+		}
+	  }
+
 		#content section {
 			background: #e50a0a;
 			padding: 40px 30px 45px 30px;
