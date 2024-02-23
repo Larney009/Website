@@ -1708,8 +1708,8 @@ input, select, textarea {
 		background-size: 9%;
 		background-blend-mode: hard-light;
 	}
-	
-	.box1 {
+
+	.box1 .box2 .box3 {
 		-webkit-animation: scale-in-ver-center 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) 5s both;
 				animation: scale-in-ver-center 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) 5s both;
 	}
