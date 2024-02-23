@@ -177,9 +177,7 @@ input, select, textarea {
 			justify-content: flex-start;
 		}
 
-		.row.aln-center {
-			justify-content: center;
-		}
+		
 
 		.row.aln-right {
 			justify-content: flex-end;
@@ -1730,6 +1728,10 @@ input, select, textarea {
 			color: #96a9b5;
 			font-size: 1.25em;
 			font-family: "Kalnia", serif;
+		}
+
+		#content a {
+			color: #fdfcfc;
 		}
 
 		#content header {
