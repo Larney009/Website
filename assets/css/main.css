@@ -1558,8 +1558,8 @@ input, select, textarea {
     	border-radius: 10px;
 		width: 100%;
 		box-shadow: 8px 9px 11px #00ecff94;
-		-webkit-animation: scale-in-ver-center 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) 2s both;
-	        animation: scale-in-ver-center 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) 2s both;
+		-webkit-animation: scale-in-ver-center 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) 1s both;
+	        animation: scale-in-ver-center 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) 1s both;
 	}
 
 	@-webkit-keyframes scale-in-ver-center {
