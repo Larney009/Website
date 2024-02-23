@@ -1703,7 +1703,7 @@ input, select, textarea {
 
 	#content {
 		background: #f7f7f7 url("./images/White\ logo.jpeg");
-		border-top: solid 1px #fff;
+		border-top: solid 1px #f7f7f7;
 		padding: 45px 0 45px 0;
 		text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);
 		color: #a0a8ab;
@@ -1733,7 +1733,7 @@ input, select, textarea {
 		}
 
 		#content a {
-			color: #ED391B;
+			color: #f9f7f7;
 		}
 
 		#content header {
