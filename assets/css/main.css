@@ -1753,6 +1753,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
+		background: #f7f7f7 url("./images/White\ logo.jpeg");
 		padding: 45px 0 45px 0;
 		text-shadow: 1px 1px 1px white;
 		color: #546b76;
