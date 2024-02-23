@@ -1716,34 +1716,10 @@ input, select, textarea {
 			box-shadow: 2px 2px 2px 1px rgba(128, 128, 128, 0.1);
 			margin: 0 0 25px 0;
 			font-family: "Kalnia", serif;
-			-webkit-animation: scale-in-ver-center 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
-	        animation: scale-in-ver-center 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+			
 		}
 
-		@-webkit-keyframes scale-in-ver-center {
-			0% {
-			  -webkit-transform: scaleY(0);
-					  transform: scaleY(0);
-			  opacity: 1;
-			}
-			100% {
-			  -webkit-transform: scaleY(1);
-					  transform: scaleY(1);
-			  opacity: 1;
-			}
-		  }
-		  @keyframes scale-in-ver-center {
-			0% {
-			  -webkit-transform: scaleY(0);
-					  transform: scaleY(0);
-			  opacity: 1;
-			}
-			100% {
-			  -webkit-transform: scaleY(1);
-					  transform: scaleY(1);
-			  opacity: 1;
-			}
-		  }
+
 
 		#content h2 {
 			font-size: 1.8em;
