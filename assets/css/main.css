@@ -1710,16 +1710,14 @@ input, select, textarea {
 		background-size: 9%;
 		background-blend-mode: darken;
 	}
-		#content section .box1{
+	
+		#content section {
 			background: #fff;
 			padding: 40px 30px 45px 30px;
 			box-shadow: 2px 2px 2px 1px rgba(128, 128, 128, 0.1);
 			margin: 0 0 25px 0;
 			font-family: "Kalnia", serif;
-			
 		}
-
-
 
 		#content h2 {
 			font-size: 1.8em;
