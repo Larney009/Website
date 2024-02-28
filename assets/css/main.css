@@ -1692,6 +1692,7 @@ input, select, textarea {
 	
 
 	.box1 {
+		background-image: #303030ab;
 		-webkit-animation: scale-in-ver-center 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) 1s both;
 				animation: scale-in-ver-center 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) 1s both;
 	}
@@ -1781,8 +1782,8 @@ input, select, textarea {
 		}
 	  }
 
-		#box_1 {
-			background-image: #303030 ;
+		#content section {
+			background-image: #303030ab ;
 			padding: 40px 30px 45px 30px;
 			box-shadow: 2px 2px 2px 1px rgba(128, 128, 128, 0.1);
 			margin: 0 0 25px 0;
