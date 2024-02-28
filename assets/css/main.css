@@ -1781,7 +1781,7 @@ input, select, textarea {
 		}
 	  }
 
-		#content section {
+		#box_1 {
 			background-image: #303030 ;
 			padding: 40px 30px 45px 30px;
 			box-shadow: 2px 2px 2px 1px rgba(128, 128, 128, 0.1);
