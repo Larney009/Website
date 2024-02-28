@@ -1639,8 +1639,7 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		border-top: solid 1px #222628;
-		box-shadow: inset 0px 1px 0px 0px #3e484a;
+	
 		padding: 35px 0 35px 0;
 		text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #18baff, 0 0 30px #18baff, 0 0 40px #18baff, 0 0 55px #18baff, 0 0 75px #18baff, 2px 2px 7px rgba(206,89,55,0);
 		color: #fff;
