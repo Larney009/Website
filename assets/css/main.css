@@ -1550,6 +1550,10 @@ input, select, textarea {
 			font-family: "Kalnia", serif;
 	}
 
+	.container {
+		background-image: #303030ab;
+	}
+
 	.codespin {
 		border: 2px solid rgb(0, 255, 200);
     	border-radius: 10px;
