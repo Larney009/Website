@@ -2143,6 +2143,7 @@ input, select, textarea {
 
 			#content section {
 				padding: 30px 20px;
+				background-color: #000000ab;
 			}
 
 			#content h2 {
