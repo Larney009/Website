@@ -1538,7 +1538,7 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		background: #3B4346 url("../css/images/Black_logo.jpeg");
+		background: #3B4346 url("../css/images/mobileUI-site-nav-opener-bg.svg");
 		background-size: 25%;
     	background-blend-mode: hard-light;
 		
