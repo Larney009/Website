@@ -1544,9 +1544,8 @@ input, select, textarea {
 		background-attachment: fixed;
 		background-size: cover;
 		
-		border-bottom: solid 1px #272d30;
-		box-shadow: inset 0px -1px 0px 0px #51575a;
-		text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);
+		color: #fbfafa;
+			font-family: "Kalnia", serif;
 	}
 
 	.codespin {
