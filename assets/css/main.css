@@ -1661,15 +1661,7 @@ input, select, textarea {
 
 /* Features */
 
-	#features {
-		background: #353D40 url("../css/images/Black_logo.jpeg");
-		border-bottom: solid 1px #272e31;
-		padding: 45px 0 45px 0;
-		text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);
-		color: #a0a8ab;
-		background-size: 9%;
-    	background-blend-mode: darken;
-	}
+	
 
 		#features h2 {
 			font-size: 1.25em;
@@ -1697,15 +1689,7 @@ input, select, textarea {
 
 /* Content */
 
-	#content {
-		background: #f7f7f7 url("./images/White\ logo.jpeg");
-		border-top: solid 1px #f7f7f7;
-		padding: 45px 0 45px 0;
-		text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);
-		color: #a0a8ab;
-		background-size: 9%;
-		background-blend-mode: hard-light;
-	}
+	
 
 	.box1 {
 		-webkit-animation: scale-in-ver-center 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) 1s both;
@@ -1840,15 +1824,6 @@ input, select, textarea {
 
 /* Footer */
 
-	#footer {
-		background: #f7f7f7 url("./images/White\ logo.jpeg");
-		background-size: 26%;
-    	background-blend-mode: color-burn;
-		padding: 45px 0 45px 0;
-		text-shadow: 1px 1px 1px white;
-		color: #546b76;
-		text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.5);
-	}
 
 		#footer h2 {
 			font-size: 1.25em;
@@ -1861,19 +1836,6 @@ input, select, textarea {
 		}
 
 /* Copyright */
-
-	#copyright {
-		background: #f7f7f7 url("./images/White\ logo.jpeg");
-		background-size: 14%;
-    	background-position-x: center;
-    	background-blend-mode: color-burn;
-		border-top: solid 1px #b5bec3;
-		box-shadow: inset 0px 1px 0px 0px #e0e4e7;
-		text-align: center;
-		padding: 20px 0 20px 0;
-		color: #8d9ca3;
-		text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.5);
-	}
 
 		#copyright a {
 			color: #8d9ca3;
