@@ -1592,6 +1592,7 @@ input, select, textarea {
 	  
 
 		#header > .container {
+			background-color: #303030ab;
 			position: relative;
 			min-height: 155px;
 		}
