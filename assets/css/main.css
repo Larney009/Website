@@ -1536,7 +1536,7 @@ input, select, textarea {
 
 /* Header */
 
-	#header, #features, #footer {
+	#header, #features, #footer, #content {
 		position: relative;
 
 		background-color: #151EFF;
