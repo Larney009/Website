@@ -1550,7 +1550,7 @@ input, select, textarea {
 			font-family: "Kalnia", serif;
 	}
 
-	.container {
+	#container {
 		background-image: #303030ab;
 	}
 
